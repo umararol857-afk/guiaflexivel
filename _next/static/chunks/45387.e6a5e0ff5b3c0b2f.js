@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[45387],{67768:(e,a,t)=>{t.r(a),t.d(a,{ClearDesignDefault:()=>n,default:()=>s});var c=t(37876);let n={};function s(e){return(0,c.jsx)("div",{className:"".concat(e.content.clear)})}}}]);
